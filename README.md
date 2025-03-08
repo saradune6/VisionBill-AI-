@@ -2,8 +2,8 @@
 
 ## 🚀 Overview
 **InvoSense** is an AI-powered invoice understanding system that leverages Google's Gemini AI to analyze and extract insights from invoices. This project allows users to upload invoice images and get structured information using advanced machine learning models.
-![ok](1.png)
-![ok](2.png)
+![ok](3.png)
+![ok](4.png)
 
 ## 🎯 Features
 - ✅ **AI-Powered Invoice Analysis** using Google's Gemini API.
@@ -68,7 +68,8 @@ streamlit run app.py
   ```python
   waveform, sample_rate = torchaudio.load("audio.wav", backend="soundfile")
   ```
-
+![ok](1.png)
+![ok](2.png)
 ## 📜 License
 This project is licensed under the **MIT License**.
 
